@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rohit99336/learn_nodeJs#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "nodemon": "^2.0.13"
   }
 }
